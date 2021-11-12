@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotNetProxyExample", "DotNetProxyExample\DotNetProxyExample.csproj", "{36C7FF90-9BBD-4B4E-B9F1-E07ADE9527EF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{36C7FF90-9BBD-4B4E-B9F1-E07ADE9527EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36C7FF90-9BBD-4B4E-B9F1-E07ADE9527EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36C7FF90-9BBD-4B4E-B9F1-E07ADE9527EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36C7FF90-9BBD-4B4E-B9F1-E07ADE9527EF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2BB38881-20D0-47C5-A1F2-B94F2B137EB9}
+	EndGlobalSection
+EndGlobal
